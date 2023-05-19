@@ -1,0 +1,37 @@
+/*
+File: style.css
+Author: Plesovszki Isvtán
+Copyright: 2023, Plesovszki Isvtán
+Group: Szoft I-2 N
+Date: 2023-05-19
+Github: https://github.com/PlesovszkiIstvan/
+Licenc: GNU GPL
+*/
+
+#about {
+    border-top-style: solid; 
+    border-top-width: 6px;
+    border-top-color: pink;
+    border-bottom-style: solid; 
+    border-bottom-width: 6px;
+    border-bottom-color: purple;
+    text-align: center;
+    position: fixed;
+    top:50px;
+    right:-250px;
+    width: 600px;
+    transform: rotate(45deg);
+    background-color: white;
+    font-size: 8px;
+}
+
+
+.citatum {
+    font-size: 0.7rem;
+    background-color: yellow;
+    padding: 5px;
+    position: fixed;
+    top:50px;
+    right: 1600px;
+    width: 250;
+}

@@ -1,3 +1,13 @@
+/*
+File: app.js
+Author: Plesovszki Isvtán
+Copyright: 2023, Plesovszki Isvtán
+Group: Szoft I-2 N
+Date: 2023-05-19
+Github: https://github.com/PlesovszkiIstvan/
+Licenc: GNU GPL
+*/
+
 const doc = {
     tobdy: document.querySelector('#tbody')
 }
